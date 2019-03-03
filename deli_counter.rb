@@ -10,7 +10,6 @@ def line(deli)
   end
 end
 
-
 def take_a_number(deli, customer)
   deli.push(customer)
   puts "Welcome, #{customer}. You are number #{deli.length} in line."

@@ -16,4 +16,4 @@ end
 
 def now_serving(deli)
   puts "Currently serving #{deli.shift}"
-end
+
